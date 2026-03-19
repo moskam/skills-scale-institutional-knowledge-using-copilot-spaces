@@ -32,6 +32,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Stakeholder Champion identified and briefed
+- [ ] QA Lead and DevOps Engineer assigned (if applicable at this stage)
+- [ ] UX Designer engaged for user-facing features
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)

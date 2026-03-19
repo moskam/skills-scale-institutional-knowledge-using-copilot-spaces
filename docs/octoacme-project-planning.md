@@ -36,8 +36,11 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held (see [Project Kickoff Template](octoacme-project-kickoff-template.md))
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
+- [ ] Release Manager assigned and release runbook initiated
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted (QA Lead responsible)
+- [ ] UX Designer involved in acceptance criteria for user-facing items
+- [ ] DevOps Engineer consulted on infrastructure and CI/CD requirements

@@ -21,10 +21,14 @@ Maintain a simple table with:
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Assign a Stakeholder Champion to each key stakeholder group
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- See [Stakeholder Communication Templates](octoacme-stakeholder-communication-templates.md) for ready-to-use templates
 
 ## Communication Templates
+See [Stakeholder Communication Templates](octoacme-stakeholder-communication-templates.md) for full, ready-to-use templates. Quick reference:
+
 Weekly Status Template:
 - Progress this week:
 - Next steps:
