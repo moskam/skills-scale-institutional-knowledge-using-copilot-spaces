@@ -8,7 +8,7 @@ OctoAcme's project management approach follows a lightweight, repeatable lifecyc
 
 ## Roles and Personas
 
-Roles are intentionally explicit to support clear ownership. The **Project Manager (PM)** coordinates delivery mechanics—timeline, risks, communications, and facilitation. The **Product Manager (PdM)** owns outcomes: prioritization, success metrics, and trade-offs with stakeholders. **Developers** design and implement features with testability in mind and participate in estimation and reviews. **QA/Testing** validates quality and acceptance criteria, while **Stakeholders** provide inputs and approvals. This role clarity is reinforced through consistent artifacts (backlog, risk register, release plan, retrospectives) so decisions and status are easy to find without depending on any one person.
+Roles are intentionally explicit to support clear ownership. The **Project Manager (PM)** coordinates delivery mechanics—timeline, risks, communications, and facilitation. The **Product Manager (PdM)** owns outcomes: prioritization, success metrics, and trade-offs with stakeholders. **Developers** design and implement features with testability in mind and participate in estimation and reviews. The **QA Lead** plans and coordinates quality assurance efforts and reports on test coverage. The **Release Manager** oversees release logistics, coordinates deployments, and owns incident and rollback communication. The **DevOps Engineer** maintains CI/CD pipelines, monitoring, and supports incident response. The **UX Designer** ensures usability and design quality, advocating for user-centric development. The **Stakeholder Champion** represents key stakeholder groups and facilitates feedback loops. **Stakeholders** provide inputs and approvals. This role clarity is reinforced through consistent artifacts (backlog, risk register, release plan, retrospectives) so decisions and status are easy to find without depending on any one person. See [Roles & Personas](octoacme-roles-and-personas.md) for full descriptions.
 
 ## Communication and Risk
 
@@ -23,8 +23,10 @@ Quality is built into both execution and release. OctoAcme runs **automated test
 - [Project Management Overview](octoacme-project-management-overview.md)
 - [Project Initiation Guide](octoacme-project-initiation.md)
 - [Project Planning](octoacme-project-planning.md)
+- [Project Kickoff Template](octoacme-project-kickoff-template.md) *(new)*
 - [Execution & Tracking](octoacme-execution-and-tracking.md)
 - [Risk Management & Communication](octoacme-risks-and-communication.md)
+- [Stakeholder Communication Templates](octoacme-stakeholder-communication-templates.md) *(new)*
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
